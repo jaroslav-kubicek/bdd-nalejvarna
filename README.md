@@ -3,3 +3,5 @@
 Examples of test suites using BDD test libraries
 (like [Behave](http://pythonhosted.org/behave/))
 for presentation at [Brand Embassy](http://www.brandembassy.com/)
+
+**Slides**: http://slides.com/jaroslavkubicek/deck
